@@ -1,4 +1,4 @@
-# Welcome to Nextjs-blog
+# Welcome to BlogXpress
 
 This is a next-blog app that allows users to create, edit, and publish their own blog posts, as well as browse and comment on other posts. The blog app also features a responsive design, a user authentication system, and a rich text editor. This app is built with Next.js, Tailwind CSS, TypeScript, and MongoDB.
 
@@ -32,8 +32,8 @@ This project uses the following technologies:
 
 To run this project locally, you need to have Node.js, npm, and MongoDB installed on your machine.
 
-1. Clone this repo to your local machine using `git clone https://github.com/tehseen01/nextjs-blog.git`
-2. Navigate to the project directory using `cd nextjs-blog`
+1. Clone this repo to your local machine using `git clone https://github.com/RohanRaikwar/BlogXpress`
+2. Navigate to the project directory using `cd BlogXpress`
 3. Install the dependencies using `npm install`
 4. Create a `.env` file in the root directory and add the following variables:
     - `MONGO_URI`: The connection string to your MongoDB database
@@ -113,5 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback about this project, feel free to contact me at [tehseen.type@gmail.com](mailto:tehseen.type@gmail.com).
-# BlogXpress
+If you have any questions or feedback about this project, feel free to contact me at [rohansigh9675@gmail.com](mailto:rohansingh9675@gmail.com).
+

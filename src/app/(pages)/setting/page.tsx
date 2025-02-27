@@ -149,7 +149,7 @@ const SettingPage = () => {
             {...register("site")}
             label="Website URL"
             labelPlacement="outside"
-            placeholder="https://ten-blog.vercel.app"
+            placeholder="https://blog-xpress-sepia.vercel.app/"
             type="text"
             radius="sm"
           />

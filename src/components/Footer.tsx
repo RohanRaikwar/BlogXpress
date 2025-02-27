@@ -10,7 +10,7 @@ const Footer = () => {
         <span className="text-sm text-gray-800 sm:text-center dark:text-gray-400">
           © 2023{" "}
           <Link
-            href="https://tehseen-site.vercel.app/"
+            href="https://blog-xpress-sepia.vercel.app/"
             className="hover:underline"
           >
             Rohan Raikwar

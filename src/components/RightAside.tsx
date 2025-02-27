@@ -111,8 +111,8 @@ const RightAside = () => {
           BlogXpress: A Dynamic Platform for Your Thoughts
         </CardHeader>
         <CardBody>
-          Built for creators and thinkers using Next.js, TypeScript, Prisma,
-          MongoDB, TailwindCSS, NextUI, and Editor.js.
+          Empowering creators and innovators to share tech insights and ideas
+          through a seamless and modern platform.
         </CardBody>
         <CardFooter>Made with passion. BlogXpress © 2025.</CardFooter>
       </Card>
